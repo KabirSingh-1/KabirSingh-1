@@ -10,32 +10,9 @@
 - 🛠 Skilled in **Java, Python, SQL, JavaScript, React, Node.js, Docker, GCP, MongoDB**  
 - 🌱 Currently working on **MehndiMuse** (Artist Booking Platform) & **DSA Explorer**  
 - 💡 Passionate about **AI, Startups, and Scalable Systems**  
-- 🎯 Solved **300+ DSA problems** on LeetCode & GFG  
+  
 
 ---
-
-## 🏆 Achievements
-- 🏅 **Smart India Hackathon 2024 – Internal Hackathon Qualifier**  
-- 👨‍💻 **Hackathon participant** – Dev-On, HackWithDelhi, HackJNU 3.0  
-- ⭐ 3⭐ in **Java** and 2⭐ in **Python** on HackerRank  
-- 🎓 **AI/ML Virtual Internship** by Google Developers  
-- ☁️ **Cloud Virtual Internship** by AWS Academy  
-
----
-
-## 📂 Featured Projects
-### 🎨 [MehndiMuse](https://github.com/KabirSingh-1/MehndiMuse)  
-✨ A platform connecting users with **professional Mehndi Artists** across India  
-🛠 Tech: Node.js, Express, MongoDB, HTML/CSS, Google Sheets API, WhatsApp Bot  
-
-### 📊 [DSA Problem Explorer](https://github.com/KabirSingh-1/DSA-Explorer)  
-📚 Interactive web app for **DSA topics, progress tracking & AI-powered explanations**  
-🛠 Tech: TypeScript, Tailwind CSS, Chart.js, Google Gemini API  
-
-### 🗺️ [Margdarshak](https://github.com/KabirSingh-1/Margdarshak)  
-🔄 SQL-driven backend APIs for **route & data conversion with FastAPI**  
-🛠 Tech: FastAPI, React.js, PostgreSQL, MS SQL, PyTest, GitHub Actions  
-
 ---
 ## 🛠️ Tech Stack  
 
@@ -71,6 +48,30 @@
 `DSA` • `OOPs` • `DBMS` • `Software Design Principles` • `Clean Code` • `Agile Workflow`  
 
 ---
+
+## 🏆 Achievements
+- 🏅 **Smart India Hackathon 2024 – Internal Hackathon Qualifier**  
+- 👨‍💻 **Hackathon participant** – Dev-On, HackWithDelhi, HackJNU 3.0  
+- ⭐ 3⭐ in **Java** and 2⭐ in **Python** on HackerRank  
+- 🎓 **AI/ML Virtual Internship** by Google Developers  
+- ☁️ **Cloud Virtual Internship** by AWS Academy
+- 🎯 Solved **300+ DSA problems** on LeetCode & GFG
+
+---
+
+## 📂 Featured Projects
+### 🎨 [MehndiMuse](https://github.com/KabirSingh-1/MehndiMuse)  
+✨ A platform connecting users with **professional Mehndi Artists** across India  
+🛠 Tech: Node.js, Express, MongoDB, HTML/CSS, Google Sheets API, WhatsApp Bot  
+
+### 📊 [DSA Problem Explorer](https://github.com/KabirSingh-1/DSA-Explorer)  
+📚 Interactive web app for **DSA topics, progress tracking & AI-powered explanations**  
+🛠 Tech: TypeScript, Tailwind CSS, Chart.js, Google Gemini API  
+
+### 🗺️ [Margdarshak](https://github.com/KabirSingh-1/Margdarshak)  
+🔄 SQL-driven backend APIs for **route & data conversion with FastAPI**  
+🛠 Tech: FastAPI, React.js, PostgreSQL, MS SQL, PyTest, GitHub Actions  
+
 
 ## 📊 GitHub Stats
 <p align="center">
