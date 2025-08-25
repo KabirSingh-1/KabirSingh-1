@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Pre-final year student at **GL Bajaj Institute of Technology & Management** (Batch 2026)  
+- 🎓 final year student at **GL Bajaj Institute of Technology & Management** (Batch 2026)  
 - 🛠 Skilled in **Java, Python, SQL, JavaScript, React, Node.js, Docker, GCP, MongoDB**  
 - 🌱 Currently working on **MehndiMuse** (Artist Booking Platform) & **DSA Explorer**  
 - 💡 Passionate about **AI, Startups, and Scalable Systems**  
