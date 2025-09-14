@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kabir Singh 
 ---
-### ✨ [Personal Portfolio]( https://kabir-singh.netlify.app/)
+### ✨ [Personal Portfolio Website]( https://kabir-singh.netlify.app/)
 ---
 💻 **B.Tech CSE (Data Science)** | 🚀 **Full-Stack Developer** | 📊 **DSA & AI Enthusiast**  
 🌍 Exploring **MERN, AI, and Cloud** | ⚡ Building **real-world products & startups**  
