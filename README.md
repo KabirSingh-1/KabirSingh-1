@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Kabir Singh  https://kabir-singh.netlify.app/
-
+# 👋 Hi, I'm Kabir Singh 
+---
+### ✨ [Personal Portfolio]( https://kabir-singh.netlify.app/)
+---
 💻 **B.Tech CSE (Data Science)** | 🚀 **Full-Stack Developer** | 📊 **DSA & AI Enthusiast**  
 🌍 Exploring **MERN, AI, and Cloud** | ⚡ Building **real-world products & startups**  
-
 ---
-
 ## 🚀 About Me
 - 🎓 final year student at **GL Bajaj Institute of Technology & Management** (Batch 2026)  
 - 🛠 Skilled in **Java, Python, SQL, JavaScript, React, Node.js, Docker, GCP, MongoDB**  
